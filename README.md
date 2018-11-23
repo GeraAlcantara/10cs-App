@@ -1,6 +1,6 @@
 # 10cs-App
 
-## Aplicación Control gastos
+### Aplicación Control gastos
 
 Copyright (c) 2018 Gerardo Alcantara  
 
