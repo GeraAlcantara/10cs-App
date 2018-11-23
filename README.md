@@ -145,6 +145,7 @@ Se enlistan las posibles categorías y conceptos de gastos que se puedan tener (
 27) **Otros**
 
  **Agregar categorias**
+ 
  **Editar Categorias**
 
 ### License
