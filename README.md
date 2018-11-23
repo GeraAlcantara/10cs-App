@@ -1,9 +1,7 @@
-10cs-App
-------------
+# 10cs-App
 
-## Aplicación Control gastos
-
-Copyright &copy; 2018 Gerardo Alcantara  
+### Aplicación Control gastos
+ 
 
 ### Visión general
 Aplicación web de control de gastos  
@@ -20,3 +18,5 @@ Aplicación web de control de gastos
 ### License
 
 MIT - <https://github.com/GeraAlcantara/10cs-App/blob/master/LICENSE>
+
+Copyright &copy; 2018 Gerardo Alcantara 
