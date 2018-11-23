@@ -1,4 +1,5 @@
-# 10cs-App
+10cs-App
+------------
 
 ## Aplicación Control gastos
 
