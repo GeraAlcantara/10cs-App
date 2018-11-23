@@ -1,13 +1,13 @@
-#10cs-App
+# 10cs-App
 
-##Aplicación Control gastos
+## Aplicación Control gastos
 
 Copyright (c) 2018 Gerardo Alcantara  
 
-###Visión general
+### Visión general
 Aplicación web de control de gastos  
 
-###Objetivos
+### Objetivos
 1. De uso gratuito 
 2. Diseño contemporáneo
 3. Fácil de usar 
