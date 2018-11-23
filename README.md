@@ -2,7 +2,7 @@
 
 ## Aplicación Control gastos
 
-Copyright (c) 2018 Gerardo Alcantara  
+Copyright &copy; 2018 Gerardo Alcantara  
 
 ### Visión general
 Aplicación web de control de gastos  
@@ -14,3 +14,8 @@ Aplicación web de control de gastos
 4. Intuitiva 
 5. Open source
 6. Usar tecnología acorde con las tendencias actuales
+
+
+### License
+
+MIT - <https://github.com/GeraAlcantara/10cs-App/blob/master/LICENSE>
