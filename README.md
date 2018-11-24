@@ -1,4 +1,9 @@
 # 10cs-App
+
+## Slack  channel 
+[slack 10cs](https://join.slack.com/t/10cs/shared_invite/enQtNDg2NDQ1ODkzNjAxLTNjOGJjYjM2MjZjOTk3MThjM2Y5ZTA4MGUwNDM2ZTdkMWY5ZTA3NjEzY2E2NmEyNDIzNTlmZWM3ZjE4ZDRmOTc)
+
+
 ## Aplicación Control gastos
 Copyright (c) 2018 Gerardo Alcantara 
 
