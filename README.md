@@ -2,12 +2,11 @@
 
 ## Slack  channel 
 [slack 10cs](https://join.slack.com/t/10cs/shared_invite/enQtNDg2NDQ1ODkzNjAxLTNjOGJjYjM2MjZjOTk3MThjM2Y5ZTA4MGUwNDM2ZTdkMWY5ZTA3NjEzY2E2NmEyNDIzNTlmZWM3ZjE4ZDRmOTc)
+Copyright (c) 2018 Gerardo Alcantara
 
-
-## Aplicación Control gastos
-Copyright (c) 2018 Gerardo Alcantara 
-
-
+## UI example 
+![alt text](https://raw.githubusercontent.com/GeraAlcantara/10cs-App/master/Modulo%20Tarjeta%20Debito.png "UI design style")
+![alt text](https://raw.githubusercontent.com/GeraAlcantara/10cs-App/master/Logo_temp.png "Logo temp design")
 
  
 
