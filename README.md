@@ -8,6 +8,11 @@ Copyright (c) 2018 Gerardo Alcantara
 ![alt text](https://raw.githubusercontent.com/GeraAlcantara/10cs-App/master/Modulo%20Tarjeta%20Debito.png "UI design style")
 ![alt text](https://raw.githubusercontent.com/GeraAlcantara/10cs-App/master/Logo_temp.png "Logo temp design")
 
+
+Esto se debe de tomar de referencia de estilo, ya que fue creado muy apegado a varias referencias o más bien como un rebound de [dribble -Gis1on](https://dribbble.com/shots/3988951-Finance-app) 
+
+Icons son CC de [The Noun project](https://thenounproject.com/) 
+
  
 
 ### Visión general
